@@ -14,7 +14,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/ethstaker
     - icon: fontawesome/brands/github
-      link: https://github.com/eth-educators
+      link: https://github.com/ethstaker
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/ethstaker
 nav:
