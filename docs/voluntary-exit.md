@@ -6,7 +6,7 @@ This guide is meant for people who are staking on Ethereum either through their 
 
 There are a lot of different ways to perform a voluntary exit. Each consensus client has their own documentation on this. This guide will focus on using [ethdo](https://github.com/wealdtech/ethdo) and [the beaconcha.in website](https://beaconcha.in/) to perform this task for simplicity. Check out the documentation for each client to learn more about how to do this natively.
 
-- [Prysm](https://docs.prylabs.network/docs/wallet/exiting-a-validator)
+- [Prysm](https://prysm.offchainlabs.com/docs/manage-validator/exiting-a-validator/)
 - [Nimbus](https://nimbus.guide/voluntary-exit.html)
 - [Lodestar](https://chainsafe.github.io/lodestar/run/validator-management/validator-cli#validator-voluntary-exit)
 - [Teku](https://docs.teku.consensys.net/HowTo/Voluntary-Exit)

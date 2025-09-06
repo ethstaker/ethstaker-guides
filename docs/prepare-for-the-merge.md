@@ -169,7 +169,7 @@ There are some privacy implications in using a fee recipient address. That addre
 
 Here are the detailed configuration options for the fee recipient for each client and their documentation.
 
-- [Prysm](https://docs.prylabs.network/docs/execution-node/fee-recipient)
+- [Prysm](https://prysm.offchainlabs.com/docs/configure-prysm/fee-recipient/)
 - [Nimbus](https://nimbus.guide/suggested-fee-recipient.html)
 - [Lodestar](https://chainsafe.github.io/lodestar/usage/validator-management/#configuring-the-fee-recipient-address)
 - [Teku](https://docs.teku.consensys.net/en/latest/HowTo/Prepare-for-The-Merge/#configure-the-fee-recipient)
